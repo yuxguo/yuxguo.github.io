@@ -15,6 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "YuxuanGuo"
 googleAnalytics = "UA-123-45"
+publishDir = "docs/"
 
 [params]
     author = "YuxuanGuo"
