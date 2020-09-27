@@ -2,9 +2,9 @@
 date = "2017-01-08"
 title = "Theme Demo"
 description = "The post demonstrates features of the coder theme."
-images = ["/images/N90.jpg"]
 math = true
 series = ["Theme", "Hugo"]
+
 +++
 
 ## Style Demo
@@ -84,7 +84,3 @@ int main(void) {
 ```
 
 
-
-## Hugo shortcode for figure
-
-{{< figure src="/images/N90.jpg" caption="N90 nebula, \"New stars shed light on the past\" by ESA/Hubble" >}}
