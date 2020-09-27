@@ -20,9 +20,11 @@ msg="update the site at $(date)"
 if [ -n "$2" ]; then
 	msg="${*:2}"
 fi
-echo "ssh password is: $password"
-echo "commit message is: $msg"
+
+printf "commit message is: \033[0;32m$msg\033[0m\n"
+printf "ssh password is: \033[0;32m$password\033[0m\n"
+
 git commit -m "$msg"
 
 # Push source and build repos.
-echo "$password" | git push origin master
+git push origin master
