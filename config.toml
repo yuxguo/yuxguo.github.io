@@ -13,7 +13,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "YuxuanGuo"
+disqusShortname = "https-yuxguo-github-io"
 googleAnalytics = "UA-179113640-1"
 publishDir = "docs/"
 
