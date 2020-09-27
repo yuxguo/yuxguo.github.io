@@ -24,17 +24,17 @@ publishDir = "docs/"
     info = "Student"
     avatarurl = "images/avatar.jpg"
     # gravatar = "john.doe@example.com"
-    # footercontent = "Enter a text here."
+    footercontent = "Keep coding!"
 
     dateformat = "January 2, 2006"
 
-    hideFooter = true
+    hideFooter = false
     hideCredits = true
     hideCopyright = true
     since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/yuxguo/yuxguo.github.io/tree/"
 
     rtl = false
 
