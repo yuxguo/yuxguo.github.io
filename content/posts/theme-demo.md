@@ -75,6 +75,16 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
+``` c
+#include<stdio.h>
+int main(void) {
+  printf("123");
+  return 0;
+}
+```
+
+
+
 ## Hugo shortcode for figure
 
 {{< figure src="/images/N90.jpg" caption="N90 nebula, \"New stars shed light on the past\" by ESA/Hubble" >}}

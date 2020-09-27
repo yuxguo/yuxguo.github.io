@@ -2,8 +2,15 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-category: []
-tag: []
+tags = [
+    "",
+]
+categories = [
+	""
+]
+series = [
+	""
+]
 
 ---
 
