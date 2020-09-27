@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://yuxguo.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yuxguo.github.io/categories/</loc>
   </url>
   

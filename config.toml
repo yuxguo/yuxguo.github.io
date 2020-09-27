@@ -21,7 +21,7 @@ publishDir = "docs/"
     author = "YuxuanGuo"
     description = "YuxuanGuo's personal website"
     keywords = "blog,researcher,personal"
-    info = "Student"
+    info = "A USTC Student."
     avatarurl = "images/avatar.jpg"
     # gravatar = "john.doe@example.com"
     footercontent = "Keep coding!"
@@ -29,9 +29,9 @@ publishDir = "docs/"
     dateformat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = true
-    hideCopyright = true
-    since = 2020
+    hideCredits = false
+    hideCopyright = false
+    since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/yuxguo/yuxguo.github.io/tree/"
