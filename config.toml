@@ -14,7 +14,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "YuxuanGuo"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-179113640-1"
 publishDir = "docs/"
 
 [params]
