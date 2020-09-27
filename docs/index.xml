@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YuxuanGuo</title>
-    <link>http://yuxguo.github.io/public/</link>
+    <link>http://yuxguo.github.io/</link>
     <description>Recent content on YuxuanGuo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2020 17:31:02 +0800</lastBuildDate><atom:link href="http://yuxguo.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 17:31:02 +0800</lastBuildDate><atom:link href="http://yuxguo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://yuxguo.github.io/public/blogs/my-first-post/</link>
+      <link>http://yuxguo.github.io/blogs/my-first-post/</link>
       <pubDate>Sat, 26 Sep 2020 17:31:02 +0800</pubDate>
       
-      <guid>http://yuxguo.github.io/public/blogs/my-first-post/</guid>
+      <guid>http://yuxguo.github.io/blogs/my-first-post/</guid>
       <description>Hello I&amp;rsquo;m YuxuanGuo $$\alpha=10$$</description>
     </item>
     
