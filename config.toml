@@ -29,7 +29,7 @@ publishDir = "docs/"
     dateformat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
     since = 2019
 
