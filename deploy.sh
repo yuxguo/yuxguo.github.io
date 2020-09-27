@@ -5,7 +5,9 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 hugo -t hugo-coder
 
 git add *
-msg="$(date)"
+
+msg="The site has been updated at $(date)."
+
 if [ -n "$*" ]; then
 	msg="$*"
 fi
