@@ -1,4 +1,4 @@
-# baseurl = "http://yuxguo.github.io/"
+baseurl = "https://yuxguo.github.io/"
 title = "YuxuanGuo"
 
 theme = "hugo-coder"
