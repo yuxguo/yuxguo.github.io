@@ -36,7 +36,7 @@ publishDir = "docs/"
     since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/yuxguo/yuxguo.github.io/master/tree/"
+    commit = "https://github.com/yuxguo/yuxguo.github.io/commit/"
 
     rtl = false
 
