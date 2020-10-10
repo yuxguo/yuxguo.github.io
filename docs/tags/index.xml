@@ -5,6 +5,16 @@
     <link>https://yuxguo.github.io/tags/</link>
     <description>Recent content in Tags on YuxuanGuo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yuxguo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Oct 2020 16:03:51 +0800</lastBuildDate><atom:link href="https://yuxguo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TVM</title>
+      <link>https://yuxguo.github.io/tags/tvm/</link>
+      <pubDate>Sat, 10 Oct 2020 16:03:51 +0800</pubDate>
+      
+      <guid>https://yuxguo.github.io/tags/tvm/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

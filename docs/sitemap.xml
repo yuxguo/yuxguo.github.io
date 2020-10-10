@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuxguo.github.io/posts/playing-with-tvm/</loc>
+    <lastmod>2020-10-10T16:03:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuxguo.github.io/posts/</loc>
+    <lastmod>2020-10-10T16:03:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuxguo.github.io/tags/</loc>
+    <lastmod>2020-10-10T16:03:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuxguo.github.io/tags/tvm/</loc>
+    <lastmod>2020-10-10T16:03:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuxguo.github.io/</loc>
+    <lastmod>2020-10-10T16:03:51+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuxguo.github.io/about/</loc>
     <priority>0</priority>
   </url>
@@ -13,14 +38,6 @@
   
   <url>
     <loc>https://yuxguo.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yuxguo.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yuxguo.github.io/</loc>
   </url>
   
 </urlset>
