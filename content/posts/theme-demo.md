@@ -4,6 +4,7 @@ title = "Theme Demo"
 description = "The post demonstrates features of the coder theme."
 math = true
 series = ["Theme", "Hugo"]
+draft = true
 
 +++
 

@@ -5,6 +5,7 @@ slug = "creating-a-new-theme"
 tags = []
 categories = []
 series = ["Theme", "Hugo"]
+draft = true
 +++
 
 ## Introduction

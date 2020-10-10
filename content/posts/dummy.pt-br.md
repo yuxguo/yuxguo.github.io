@@ -4,6 +4,7 @@ title = "Dummy"
 slug = "dummy" 
 tags = ["hugo", "i18n"]
 categories = ["blog"]
+draft = true
 +++
 
 Nada para ver aqui!

@@ -3,6 +3,7 @@ date = "2020-05-25"
 title = "Twemoji Support 🤩"
 description = "The post demonstrates Twemoji support"
 series = ["Theme", "Hugo"]
+draft = true
 +++
 
 If you want to use Twitter's [Twemoji](https://twemoji.twitter.com/) across your website, enable it in your `config.toml`
